@@ -1,0 +1,10 @@
+ls: cannot access 'notreal': No such file or directory
+total 76
+-rw-rw---- 1 guy guy    55 Mar 21 19:23 file
+-rw-rw-r-- 1 guy guy  1074 Mar 21 18:49 key.c
+-rwxrwxr-x 1 guy guy 16424 Mar 19 14:09 myshell
+-rwxrwxr-x 1 guy guy 16304 Mar 21 18:47 myshell1
+-rwxrwxr-x 1 guy guy 16504 Mar 21 19:19 myshell3
+-rw-rw-r-- 1 guy guy  1032 Mar 19 14:09 shell1.c
+-rw-rw-r-- 1 guy guy  1443 Mar 19 14:09 shell2.c
+-rw-rw-r-- 1 guy guy  3875 Mar 21 19:19 shell3.c
